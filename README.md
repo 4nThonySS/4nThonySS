@@ -1,8 +1,8 @@
 <div align="center">
-  <h2>¡Hola! Soy Antonio Suazo (4nT)</h2>
+  <h2>Soy Antonio Suazo {4nT}</h2>
   <h3>Desarrollador Front End | Estudiante de Informática</h3>
   
-  <p>Construyo interfaces web claras, rápidas y que se ven bien en cualquier pantalla. Probando, rompiendo y mejorando.</p>
+  <p>Probando, rompiendo y mejorando.</p>
   
   <br>
 
@@ -33,7 +33,7 @@
 - Estudiante de **Informática** en **Duoc UC**.
 - Enfocándome en el ecosistema **Front End, Full Stack, UI / UX y Apps móviles**.
 - Actualmente construyendo mis primeros proyectos personales.
-- **Dato curioso:** Cuando no estoy diseñando interfaces o tirando código, es muy probable que esté en alguna partida de **VALORANT** o diseñando cohetes en **Spaceflight Simulator**.
+- **Dato curioso:** Cuando no estoy diseñando interfaces o tirando código, es muy probable que esté en alguna partida de **CS** o Explorando  en **Valheim o Minecraft**.
 
 <br>
 
