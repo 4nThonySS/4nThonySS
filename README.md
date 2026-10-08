@@ -25,7 +25,6 @@
 - Estudiante de **Informática** en **Duoc UC**.
 - Enfocándome en el ecosistema **Front End, Full Stack, UI / UX y Apps móviles**.
 - Actualmente construyendo mis primeros proyectos personales.
-- **Dato curioso:** Cuando no estoy diseñando interfaces o tirando código, es muy probable que esté en alguna partida de **CS** o Explorando en **Valheim o Minecraft**.
 
 <br>
 
